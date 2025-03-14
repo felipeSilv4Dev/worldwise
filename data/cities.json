@@ -35,42 +35,6 @@
         "lng": 13.376933665713324
       },
       "id": "98443197"
-    },
-    {
-      "id": "2170",
-      "cityName": "Saint-Junien-la-Bregere",
-      "country": "France",
-      "emoji": "🇫🇷",
-      "date": "2025-03-14T12:22:18.919Z",
-      "notes": "",
-      "position": {
-        "lat": "45.89000815866184",
-        "lng": "1.7742919921875002"
-      }
-    },
-    {
-      "id": "f540",
-      "cityName": "Algeciras",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2025-03-14T12:26:16.615Z",
-      "notes": "new cities",
-      "position": {
-        "lat": "36.08462129606931",
-        "lng": "-5.51513671875"
-      }
-    },
-    {
-      "id": "8fc5",
-      "cityName": "Ourique",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2025-03-14T12:33:26.994Z",
-      "notes": "",
-      "position": {
-        "lat": "37.645771969647",
-        "lng": "-8.221893310546877"
-      }
     }
   ]
 }
